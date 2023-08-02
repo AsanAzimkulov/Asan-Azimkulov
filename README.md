@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asan Azimkulov</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asanazimkulov" alt="asanazimkulov" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/asanazimkulov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asanazimkulov" height="30" width="40" /></a>
@@ -14,6 +12,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asanazimkulov&show_icons=true&locale=en&layout=compact" alt="asanazimkulov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asanazimkulov&show_icons=true&locale=en" alt="asanazimkulov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asanazimkulov&" alt="asanazimkulov" /></p>
 
